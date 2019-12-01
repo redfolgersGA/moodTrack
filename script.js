@@ -30,6 +30,8 @@ moodButton.click(function(e){
 })
 
 
+console.log("TEST")
+
 
 
 
